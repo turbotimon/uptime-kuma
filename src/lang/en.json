@@ -908,6 +908,7 @@
     "smtpDkimheaderFieldNames": "Header Keys to sign (Optional)",
     "smtpDkimskipFields": "Header Keys not to sign (Optional)",
     "wayToGetPagerDutyKey": "You can get this by going to Service -> Service Directory -> (Select a service) -> Integrations -> Add integration. Here you can search for \"Events API V2\". More info {0}",
+    "wayToGetGitLabAlertsURL": "Create an HTTP integration in GitLab under your project's Monitor -> Alerts settings. More info {0}",
     "Integration Key": "Integration Key",
     "Integration URL": "Integration URL",
     "Auto resolve or acknowledged": "Auto resolve or acknowledged",

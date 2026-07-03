@@ -16,6 +16,7 @@ import Elks from "./46elks.vue";
 import EgoSMS from "./EgoSMS.vue";
 import Feishu from "./Feishu.vue";
 import FreeMobile from "./FreeMobile.vue";
+import GitLabAlerts from "./GitLabAlerts.vue";
 import GoogleChat from "./GoogleChat.vue";
 import GoogleSheets from "./GoogleSheets.vue";
 import Gorush from "./Gorush.vue";
@@ -117,6 +118,7 @@ const NotificationFormList = {
     egosms: EgoSMS,
     Feishu: Feishu,
     FreeMobile: FreeMobile,
+    GitLabAlerts: GitLabAlerts,
     GoogleChat: GoogleChat,
     GoogleSheets: GoogleSheets,
     gorush: Gorush,

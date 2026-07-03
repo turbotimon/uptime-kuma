@@ -18,6 +18,7 @@ const EgoSMS = require("./notification-providers/egosms");
 const Feishu = require("./notification-providers/feishu");
 const Notifery = require("./notification-providers/notifery");
 const FreeMobile = require("./notification-providers/freemobile");
+const GitLabAlerts = require("./notification-providers/gitlab-alerts");
 const GoogleChat = require("./notification-providers/google-chat");
 const GoogleSheets = require("./notification-providers/google-sheets");
 const Gorush = require("./notification-providers/gorush");
@@ -129,6 +130,7 @@ class Notification {
             new EgoSMS(),
             new Feishu(),
             new FreeMobile(),
+            new GitLabAlerts(),
             new GoogleChat(),
             new GoogleSheets(),
             new Gorush(),

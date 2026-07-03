@@ -293,6 +293,7 @@ export default {
                 alerta: "Alerta",
                 AlertNow: "AlertNow",
                 Flowtriq: "Flowtriq",
+                GitLabAlerts: "GitLab Alerts",
                 GoAlert: "GoAlert",
                 GrafanaOncall: "Grafana Oncall",
                 HeiiOnCall: "Heii On-Call",
